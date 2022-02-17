@@ -14,7 +14,7 @@ Your job, as a team, is to improve upon the [ReactJS](https://reactjs.org/) brew
 
 ## Project Requirements
 
-- Must contain a well thought out entity relationship diagram and application design
+- Must contain a well thought out entity relationship diagram and application design built via user stories
 - Must be a full-stack application with a [ReactJS](https://reactjs.org/) frontend consuming data from an [ElephantSQL](https://www.elephantsql.com/) database-backend that is exposed to the client frontend via an API built using [Express](https://expressjs.com/) and [Prisma](https://www.prisma.io/)
 - Must not expose sensitive information (authentication)
 - Must not contain hard coded URL’s (routes are fine, `http://localhost` is not)
