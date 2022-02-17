@@ -25,4 +25,4 @@ Your job, as a team, is to improve upon the [ReactJS](https://reactjs.org/) brew
 
 ## Setup
 
-This is _scaffold free_ project, so setup is down to you! However, since you are going to use a single repository for both client and server, it is recommended that your repository includes two top-level directories that separates the two, e.g. _./client/_ and _./server/_.
+This is _scaffold free_ project, so setup is down to you! However, since you are going to use a single repository for both client and server, it is recommended that your repository includes two top-level directories that separates the two, e.g. _/client_ and _/server_.
